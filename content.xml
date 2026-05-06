@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505141010Q1REJ8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505141010240MW5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Frenado de motor por inyección de corriente continua.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eva Ardura Casado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777928221212</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Frenado por inyección de corriente continua - Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Frenado por inyección de corriente continua - Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Frenado por inyección de corriente continua - Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Frenado por inyección de corriente continua - Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774448384862-5k4qt3h8v</odeBlockId>
+      <blockName>Etapa educativa y nivel</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774448384862-5k4qt3h8v</odeBlockId>
+          <odeIdeviceId>idevice-1774448384857-y2za3bd5k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Ciclo Formativo de Grado Medio</strong><br /><strong>Familia Profesional: </strong>Electricidad y Electrónica<br /><strong>Módulo:</strong> Máquinas eléctricas<br /><strong>Nivel:</strong> 2º curso</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774448384857-y2za3bd5k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Ciclo Formativo de Grado Medio</strong><br /><strong>Familia Profesional: </strong>Electricidad y Electrónica<br /><strong>Módulo:</strong> Máquinas eléctricas<br /><strong>Nivel:</strong> 2º curso</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774453492155-k9nkj1s80</odeBlockId>
+      <blockName>Módulos implicados</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774453492155-k9nkj1s80</odeBlockId>
+          <odeIdeviceId>idevice-1774453492155-zwcuuzd8d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Máquinas eléctricas de corriente alterna</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453492155-zwcuuzd8d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Máquinas eléctricas de corriente alterna</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774453496500-e1f1sprqb</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774453496500-e1f1sprqb</odeBlockId>
+          <odeIdeviceId>idevice-1774453496501-8q4b00zkz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Trabajo individual (reflexión inicial)</li>
+<li>Trabajo en pequeños grupos (2-3 personas)</li>
+<li>Puesta en común en gran grupo</li>
+</ul>
+<p>Espacios:</p>
+<ul>
+<li>Aula ordinaria dotada de equipos informáticos</li>
+<li>Aula-taller.</li>
+</ul>
+<p>Se aplican principios del DUA:</p>
+<ul>
+<li>Diferentes formas de participación</li>
+<li>Diversidad de agrupamientos</li>
+<li>Uso de recursos digitales y visuales</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453496501-8q4b00zkz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Trabajo individual (reflexión inicial)</li>\n<li>Trabajo en pequeños grupos (2-3 personas)</li>\n<li>Puesta en común en gran grupo</li>\n</ul>\n<p>Espacios:</p>\n<ul>\n<li>Aula ordinaria dotada de equipos informáticos</li>\n<li>Aula-taller.</li>\n</ul>\n<p>Se aplican principios del DUA:</p>\n<ul>\n<li>Diferentes formas de participación</li>\n<li>Diversidad de agrupamientos</li>\n<li>Uso de recursos digitales y visuales</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774511905017-j6e59zh9w</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774511905017-j6e59zh9w</odeBlockId>
+          <odeIdeviceId>idevice-1774511905020-1p2wbj698</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrollará en <strong>9</strong> <strong>sesiones de 55 minutos</strong> cada una:</p>
+<ul>
+<li style="text-align: justify;"><strong>Sesión 1: </strong>Introducción a la SdA, introducción al frenado de máquinas eléctricas de corriente alterna.</li>
+<li style="text-align: justify;"><strong>Sesión 2: </strong>Explicación del esquema eléctrico del frenado por inyección de corriente continua. Simulación con programa informático del frenado.</li>
+<li style="text-align: justify;"><strong>Sesión 3: </strong>Análisis del esquema, planteamiento del bornero de conexiones e inicio del montaje.</li>
+<li style="text-align: justify;"><strong>Sesión 4:</strong> Montaje del frenado.</li>
+<li style="text-align: justify;"><strong>Sesión 5:</strong> Continuación con el montaje del frenado</li>
+<li style="text-align: justify;"><strong>Sesión 6:</strong> Continuación con el montaje del frenado</li>
+<li style="text-align: justify;"><strong>Sesión 7: </strong>Continuación con el montaje del frenado.</li>
+<li style="text-align: justify;"><strong>Sesión 8:</strong> Comprobaciones del montaje y prueba del mismo. Ensayo y toma de medidas. Grabación de la prueba para el video y recopilación de datos para infografía</li>
+<li style="text-align: justify;"><strong>Sesión 9: </strong>Presentación de los productos finales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774511905020-1p2wbj698","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrollará en <strong>9</strong> <strong>sesiones de 55 minutos</strong> cada una:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Sesión 1: </strong>Introducción a la SdA, introducción al frenado de máquinas eléctricas de corriente alterna.</li>\n<li style=\"text-align: justify;\"><strong>Sesión 2: </strong>Explicación del esquema eléctrico del frenado por inyección de corriente continua. Simulación con programa informático del frenado.</li>\n<li style=\"text-align: justify;\"><strong>Sesión 3: </strong>Análisis del esquema, planteamiento del bornero de conexiones e inicio del montaje.</li>\n<li style=\"text-align: justify;\"><strong>Sesión 4:</strong> Montaje del frenado.</li>\n<li style=\"text-align: justify;\"><strong>Sesión 5:</strong> Continuación con el montaje del frenado</li>\n<li style=\"text-align: justify;\"><strong>Sesión 6:</strong> Continuación con el montaje del frenado</li>\n<li style=\"text-align: justify;\"><strong>Sesión 7: </strong>Continuación con el montaje del frenado.</li>\n<li style=\"text-align: justify;\"><strong>Sesión 8:</strong> Comprobaciones del montaje y prueba del mismo. Ensayo y toma de medidas. Grabación de la prueba para el video y recopilación de datos para infografía</li>\n<li style=\"text-align: justify;\"><strong>Sesión 9: </strong>Presentación de los productos finales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774453625887-xbc7iefl5</odeBlockId>
+      <blockName>Productos finales del alumnado</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774453625887-xbc7iefl5</odeBlockId>
+          <odeIdeviceId>idevice-1774453625888-kewrz3ajq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado elaborará:</p>
+<h2>1. Infografía interactiva</h2>
+<p>Contenido:</p>
+<ul>
+<li>Explicación del frenado por inyección de corriente continua.</li>
+<li>Relación con los ODS</li>
+<li>Usos recomendados y desaconsejados de este tipo de frenado.</li>
+</ul>
+<p>Debe incluir algún elemento interactivo (enlace, botón, vídeo embebido, etc.)</p>
+<h2>2. Vídeo breve (tipo presentación o pitch)</h2>
+<h5>Duración: 2–5 minutos</h5>
+<p>Contenido:</p>
+<ul>
+<li>Explicación del montaje del frenado.<br /></li>
+<li>Prueba del frenado realizando modificaciones en el autotrafo.<br /></li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453625888-kewrz3ajq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado elaborará:</p>\n<h2>1. Infografía interactiva</h2>\n<p>Contenido:</p>\n<ul>\n<li>Explicación del frenado por inyección de corriente continua.</li>\n<li>Relación con los ODS</li>\n<li>Usos recomendados y desaconsejados de este tipo de frenado.</li>\n</ul>\n<p>Debe incluir algún elemento interactivo (enlace, botón, vídeo embebido, etc.)</p>\n<h2>2. Vídeo breve (tipo presentación o pitch)</h2>\n<h5>Duración: 2–5 minutos</h5>\n<p>Contenido:</p>\n<ul>\n<li>Explicación del montaje del frenado.<br /></li>\n<li>Prueba del frenado realizando modificaciones en el autotrafo.<br /></li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+      <odeBlockId>block-1774453691671-s23orr39w</odeBlockId>
+      <blockName>Herramientas tecnológicas</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdz2-9w8sd10f2</odePageId>
+          <odeBlockId>block-1774453691671-s23orr39w</odeBlockId>
+          <odeIdeviceId>idevice-1774453691672-nwh2ycisb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul></ul>
+<h2>Para el alumnado:</h2>
+<ul>
+<li>Canva / Genially → <strong>infografía</strong><br /></li>
+<li>PowerPoint / Canva / CapCut → <strong>vídeo</strong></li>
+<li>Navegador web → <strong>investigación</strong><br /></li>
+</ul>
+<h2>Para el profesorado:</h2>
+<ul>
+<li>Plataforma LMS (Teams, Moodle…)</li>
+<li>Proyector / pizarra digital</li>
+</ul>
+<h2>Recursos complementarios:</h2>
+<ul>
+<li>Apuntes de la asignatura</li>
+<li>Videos propuestos</li>
+<li>Banco de imágenes libres (Pixabay, Unsplash)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453691672-nwh2ycisb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul></ul>\n<h2>Para el alumnado:</h2>\n<ul>\n<li>Canva / Genially → <strong>infografía</strong><br /></li>\n<li>PowerPoint / Canva / CapCut → <strong>vídeo</strong></li>\n<li>Navegador web → <strong>investigación</strong><br /></li>\n</ul>\n<h2>Para el profesorado:</h2>\n<ul>\n<li>Plataforma LMS (Teams, Moodle…)</li>\n<li>Proyector / pizarra digital</li>\n</ul>\n<h2>Recursos complementarios:</h2>\n<ul>\n<li>Apuntes de la asignatura</li>\n<li>Videos propuestos</li>\n<li>Banco de imágenes libres (Pixabay, Unsplash)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdza-dh7a4v1id</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdza-dh7a4v1id</odePageId>
+      <odeBlockId>block-1774452781336-qv1hxn0ce</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdza-dh7a4v1id</odePageId>
+          <odeBlockId>block-1774452781336-qv1hxn0ce</odeBlockId>
+          <odeIdeviceId>idevice-1774452781330-f76jp9w9r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En muchas instalaciones industriales, la parada rápida y controlada de motores eléctricos se realiza sin sistemas complejos de regulación de velocidad, recurriendo a técnicas clásicas de frenado eléctrico, como la inyección de corriente continua.</p>
+<p>Este tipo de frenado sigue utilizándose en:</p>
+<p>Maquinaria industrial sencilla<br />Sistemas de transporte<br />Talleres y líneas auxiliares<br />El alumnado de IEA debe conocer cómo funciona, cuándo es adecuado y qué riesgos conlleva, aplicándolo con criterios de seguridad eléctrica, protección térmica y responsabilidad técnica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774452781330-f76jp9w9r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En muchas instalaciones industriales, la parada rápida y controlada de motores eléctricos se realiza sin sistemas complejos de regulación de velocidad, recurriendo a técnicas clásicas de frenado eléctrico, como la inyección de corriente continua.</p>\n<p>Este tipo de frenado sigue utilizándose en:</p>\n<p>Maquinaria industrial sencilla<br />Sistemas de transporte<br />Talleres y líneas auxiliares<br />El alumnado de IEA debe conocer cómo funciona, cuándo es adecuado y qué riesgos conlleva, aplicándolo con criterios de seguridad eléctrica, protección térmica y responsabilidad técnica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdza-dh7a4v1id</odePageId>
+      <odeBlockId>block-1774453116021-ftqv4kmwj</odeBlockId>
+      <blockName>Impacto esperado</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdza-dh7a4v1id</odePageId>
+          <odeBlockId>block-1774453116021-ftqv4kmwj</odeBlockId>
+          <odeIdeviceId>idevice-1774453116021-wrgkun008</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Sda tiene un impacto formativo significativo y multidimensional en el alumnado , tanto a nivel técnico como personal y social.</p>
+<p>1. Impacto en el aprendizaje técnico‑profesional<br />El alumnado:</p>
+<ul>
+<li>Comprende el funcionamiento real de los motores eléctricos más allá del arranque y la parada básica.</li>
+<li>Integra conocimientos de máquinas eléctricas, automatismos y electricidad industrial en un único sistema funcional.</li>
+<li>Desarrolla la capacidad de interpretar esquemas eléctricos reales y ejecutarlos en un entorno de taller.</li>
+<li>Aprende a tomar decisiones técnicas, ajustando tiempos de frenado y evitando errores de diseño que puedan provocar averías.<br /><br /></li>
+</ul>
+<p>2. Impacto en la seguridad y la responsabilidad profesional<br />Esta SdA fomenta:</p>
+<ul>
+<li>La conciencia sobre los riesgos eléctricos y térmicos asociados a los motores.</li>
+<li>El uso racional de técnicas de frenado para evitar daños al motor y accidentes.</li>
+<li>La importancia de los procedimientos seguros de trabajo, especialmente en maniobras de parada.<br /><br />3. Impacto personal y social<br />El alumnado:</li>
+<li>Trabaja de forma cooperativa en el taller, comunicándose técnicamente con sus compañeros.</li>
+<li>Desarrolla autonomía y confianza profesional al comprobar el funcionamiento real del sistema.</li>
+<li>Aprende a analizar críticamente cuándo una solución técnica es adecuada y cuándo no.<br /><br /></li>
+</ul>
+<p>4. Impacto en la empleabilidad<br />La SdA:</p>
+<ul>
+<li>Se basa en una tecnología sencilla pero muy presente en entornos industriales.</li>
+<li>Introduce al alumnado en técnicas clásicas aún vigentes en mantenimiento y pequeñas instalaciones.</li>
+<li>Facilita la transferencia directa al entorno laboral.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453116021-wrgkun008","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Sda tiene un impacto formativo significativo y multidimensional en el alumnado , tanto a nivel técnico como personal y social.</p>\n<p>1. Impacto en el aprendizaje técnico‑profesional<br />El alumnado:</p>\n<ul>\n<li>Comprende el funcionamiento real de los motores eléctricos más allá del arranque y la parada básica.</li>\n<li>Integra conocimientos de máquinas eléctricas, automatismos y electricidad industrial en un único sistema funcional.</li>\n<li>Desarrolla la capacidad de interpretar esquemas eléctricos reales y ejecutarlos en un entorno de taller.</li>\n<li>Aprende a tomar decisiones técnicas, ajustando tiempos de frenado y evitando errores de diseño que puedan provocar averías.<br /><br /></li>\n</ul>\n<p>2. Impacto en la seguridad y la responsabilidad profesional<br />Esta SdA fomenta:</p>\n<ul>\n<li>La conciencia sobre los riesgos eléctricos y térmicos asociados a los motores.</li>\n<li>El uso racional de técnicas de frenado para evitar daños al motor y accidentes.</li>\n<li>La importancia de los procedimientos seguros de trabajo, especialmente en maniobras de parada.<br /><br />3. Impacto personal y social<br />El alumnado:</li>\n<li>Trabaja de forma cooperativa en el taller, comunicándose técnicamente con sus compañeros.</li>\n<li>Desarrolla autonomía y confianza profesional al comprobar el funcionamiento real del sistema.</li>\n<li>Aprende a analizar críticamente cuándo una solución técnica es adecuada y cuándo no.<br /><br /></li>\n</ul>\n<p>4. Impacto en la empleabilidad<br />La SdA:</p>\n<ul>\n<li>Se basa en una tecnología sencilla pero muy presente en entornos industriales.</li>\n<li>Introduce al alumnado en técnicas clásicas aún vigentes en mantenimiento y pequeñas instalaciones.</li>\n<li>Facilita la transferencia directa al entorno laboral.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdza-dh7a4v1id</odePageId>
+      <odeBlockId>block-1774453325121-llocr0lxt</odeBlockId>
+      <blockName>Relación con los ODS</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdza-dh7a4v1id</odePageId>
+          <odeBlockId>block-1774453325121-llocr0lxt</odeBlockId>
+          <odeIdeviceId>idevice-1774453325121-si2xu9xv5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>ODS 7: </strong>Energía asequible y no contaminante</li>
+</ul>
+<p>Uso responsable de la energía eléctrica.<br />Análisis de pérdidas energéticas por disipación térmica.<br />Reflexión sobre la eficiencia de los sistemas de frenado.</p>
+<ul>
+<li><strong>ODS 8 :</strong> Trabajo decente y crecimiento económico</li>
+</ul>
+<p>Mejora de la seguridad en el uso de máquinas eléctricas.<br />Prevención de riesgos laborales.<br />Formación de profesionales cualificados.</p>
+<ul>
+<li><strong>ODS 9:</strong> Industria, innovación e infraestructura</li>
+</ul>
+<p>Conocimiento de sistemas industriales reales.<br />Mantenimiento seguro y fiable de instalaciones.<br />Uso de soluciones técnicas robustas y contrastadas.</p>
+<ul>
+<li><strong>ODS 12: </strong>Producción y consumo responsables.</li>
+</ul>
+<p>Uso adecuado de los motores para evitar averías.<br />Prevención del desgaste prematuro de equipos.<br />Alargamiento de la vida útil de las máquinas.</p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453325121-si2xu9xv5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>ODS 7: </strong>Energía asequible y no contaminante</li>\n</ul>\n<p>Uso responsable de la energía eléctrica.<br />Análisis de pérdidas energéticas por disipación térmica.<br />Reflexión sobre la eficiencia de los sistemas de frenado.</p>\n<ul>\n<li><strong>ODS 8 :</strong> Trabajo decente y crecimiento económico</li>\n</ul>\n<p>Mejora de la seguridad en el uso de máquinas eléctricas.<br />Prevención de riesgos laborales.<br />Formación de profesionales cualificados.</p>\n<ul>\n<li><strong>ODS 9:</strong> Industria, innovación e infraestructura</li>\n</ul>\n<p>Conocimiento de sistemas industriales reales.<br />Mantenimiento seguro y fiable de instalaciones.<br />Uso de soluciones técnicas robustas y contrastadas.</p>\n<ul>\n<li><strong>ODS 12: </strong>Producción y consumo responsables.</li>\n</ul>\n<p>Uso adecuado de los motores para evitar averías.<br />Prevención del desgaste prematuro de equipos.<br />Alargamiento de la vida útil de las máquinas.</p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdza-dh7a4v1id</odePageId>
+      <odeBlockId>block-1774453341886-bzdt42680</odeBlockId>
+      <blockName>Retos del siglo XXI</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdza-dh7a4v1id</odePageId>
+          <odeBlockId>block-1774453341886-bzdt42680</odeBlockId>
+          <odeIdeviceId>idevice-1774453341887-lbx0c2g62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Seguridad tecnológica e industrial</strong><br />Formación en sistemas eléctricos seguros.<br />Prevención de errores humanos en instalaciones.<br />Cultura de la seguridad desde la etapa formativa.<br /> <br /><strong>2. Sostenibilidad y eficiencia energética</strong><br />Análisis de impactos energéticos y térmicos.<br />Uso racional de los recursos.<br />Conciencia ambiental en entornos industriales.<br /> </p>
+<p><strong>3. Pensamiento crítico y toma de decisiones</strong><br />Evaluación de cuándo una solución técnica es adecuada.<br />Análisis de limitaciones y riesgos.<br />Comparación entre alternativas técnicas.<br /> <br /><strong>4. Trabajo colaborativo en contextos técnicos</strong><br />Coordinación en montajes de taller.<br />Comunicación técnica clara y precisa.<br />Responsabilidad compartida en la seguridad.<br /> <br /><strong>5. Preparación para el empleo y la FP dual</strong><br />Simulación de situaciones laborales reales.<br />Desarrollo de competencias profesionales transferibles.<br />Vinculación directa con el sector productivo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774453341887-lbx0c2g62","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Seguridad tecnológica e industrial</strong><br />Formación en sistemas eléctricos seguros.<br />Prevención de errores humanos en instalaciones.<br />Cultura de la seguridad desde la etapa formativa.<br /> <br /><strong>2. Sostenibilidad y eficiencia energética</strong><br />Análisis de impactos energéticos y térmicos.<br />Uso racional de los recursos.<br />Conciencia ambiental en entornos industriales.<br /> </p>\n<p><strong>3. Pensamiento crítico y toma de decisiones</strong><br />Evaluación de cuándo una solución técnica es adecuada.<br />Análisis de limitaciones y riesgos.<br />Comparación entre alternativas técnicas.<br /> <br /><strong>4. Trabajo colaborativo en contextos técnicos</strong><br />Coordinación en montajes de taller.<br />Comunicación técnica clara y precisa.<br />Responsabilidad compartida en la seguridad.<br /> <br /><strong>5. Preparación para el empleo y la FP dual</strong><br />Simulación de situaciones laborales reales.<br />Desarrollo de competencias profesionales transferibles.<br />Vinculación directa con el sector productivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdzc-h7gnyf099</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdzc-h7gnyf099</odePageId>
+      <odeBlockId>block-1774454422299-l1oxg26i8</odeBlockId>
+      <blockName>Competencias clave</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzc-h7gnyf099</odePageId>
+          <odeBlockId>block-1774454422299-l1oxg26i8</odeBlockId>
+          <odeIdeviceId>idevice-1774454422299-48yp2h9o2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencia digital</li>
+<li>Competencia STEM</li>
+<li>Competencia ciudadana</li>
+<li>Competencia personal, social y de aprender a aprender</li>
+<li>Competencia en sostenibilidad</li>
+<li>Competencia emprendedora</li>
+<li>Competencia en comunicación lingüística</li>
+</ul>
+<p>La Situación de Aprendizaje contribuye de manera integrada al desarrollo de las competencias clave establecidas en la LOMLOE, especialmente la competencia STEM, la competencia en sostenibilidad, la competencia personal y social y la competencia ciudadana, preparando al alumnado para afrontar con seguridad, responsabilidad y criterio técnico situaciones reales del ámbito industrial eléctrico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454422299-48yp2h9o2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencia digital</li>\n<li>Competencia STEM</li>\n<li>Competencia ciudadana</li>\n<li>Competencia personal, social y de aprender a aprender</li>\n<li>Competencia en sostenibilidad</li>\n<li>Competencia emprendedora</li>\n<li>Competencia en comunicación lingüística</li>\n</ul>\n<p>La Situación de Aprendizaje contribuye de manera integrada al desarrollo de las competencias clave establecidas en la LOMLOE, especialmente la competencia STEM, la competencia en sostenibilidad, la competencia personal y social y la competencia ciudadana, preparando al alumnado para afrontar con seguridad, responsabilidad y criterio técnico situaciones reales del ámbito industrial eléctrico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdzc-h7gnyf099</odePageId>
+      <odeBlockId>block-1774454382487-xrcj6xkrn</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzc-h7gnyf099</odePageId>
+          <odeBlockId>block-1774454382487-xrcj6xkrn</odeBlockId>
+          <odeIdeviceId>idevice-1774454382484-4tubaoady</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CE1. Identificar y explicar el funcionamiento de los motores asíncronos y sus sistemas de frenado eléctrico.<br />CE2. Interpretar esquemas eléctricos de potencia y mando relacionados con el frenado por inyección de corriente continua.<br />CE3. Montar y verificar sistemas básicos de frenado eléctrico aplicados a motores de corriente alterna.<br />CE4. Aplicar procedimientos de trabajo seguro y prevención de riesgos laborales en el montaje y prueba de sistemas eléctricos.<br />CE5. Analizar el comportamiento del motor durante el frenado, valorando efectos térmicos y limitaciones técnicas.<br />CE6. Justificar la idoneidad o no de una técnica de frenado en función de la aplicación, la seguridad y el consumo energético.<br /> <br />La Situación de Aprendizaje desarrolla competencias específicas relacionadas con el análisis, montaje y verificación de sistemas de frenado eléctrico en motores asíncronos, la interpretación de esquemas eléctricos, la aplicación de normas de seguridad y la toma de decisiones técnicas responsables en entornos industriales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454382484-4tubaoady","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CE1. Identificar y explicar el funcionamiento de los motores asíncronos y sus sistemas de frenado eléctrico.<br />CE2. Interpretar esquemas eléctricos de potencia y mando relacionados con el frenado por inyección de corriente continua.<br />CE3. Montar y verificar sistemas básicos de frenado eléctrico aplicados a motores de corriente alterna.<br />CE4. Aplicar procedimientos de trabajo seguro y prevención de riesgos laborales en el montaje y prueba de sistemas eléctricos.<br />CE5. Analizar el comportamiento del motor durante el frenado, valorando efectos térmicos y limitaciones técnicas.<br />CE6. Justificar la idoneidad o no de una técnica de frenado en función de la aplicación, la seguridad y el consumo energético.<br /> <br />La Situación de Aprendizaje desarrolla competencias específicas relacionadas con el análisis, montaje y verificación de sistemas de frenado eléctrico en motores asíncronos, la interpretación de esquemas eléctricos, la aplicación de normas de seguridad y la toma de decisiones técnicas responsables en entornos industriales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdzc-h7gnyf099</odePageId>
+      <odeBlockId>block-1774454346689-984dkrlhv</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzc-h7gnyf099</odePageId>
+          <odeBlockId>block-1774454346689-984dkrlhv</odeBlockId>
+          <odeIdeviceId>idevice-1774454346684-s5bbldmjt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Funcionamiento básico de los motores asíncronos trifásicos.</li>
+<li>Principios del campo magnético en máquinas eléctricas rotativas.</li>
+<li>Métodos de frenado eléctrico en motores de corriente alterna.</li>
+<li>Fundamento del frenado por inyección de corriente continua.</li>
+<li>Elementos eléctricos asociados al frenado:</li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Rectificador,Contactores,Temporizadores,Elementos de protección</li>
+<li>Esquemas eléctricos de potencia y mando aplicados al frenado.</li>
+<li>Efectos térmicos del frenado y limitaciones de uso.</li>
+<li>Normas básicas de seguridad eléctrica y prevención de riesgos laborales.</li>
+<li>Uso responsable de la energía y eficiencia energética en sistemas eléctricos.<br /> <br /><br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454346684-s5bbldmjt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Funcionamiento básico de los motores asíncronos trifásicos.</li>\n<li>Principios del campo magnético en máquinas eléctricas rotativas.</li>\n<li>Métodos de frenado eléctrico en motores de corriente alterna.</li>\n<li>Fundamento del frenado por inyección de corriente continua.</li>\n<li>Elementos eléctricos asociados al frenado:</li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Rectificador,Contactores,Temporizadores,Elementos de protección</li>\n<li>Esquemas eléctricos de potencia y mando aplicados al frenado.</li>\n<li>Efectos térmicos del frenado y limitaciones de uso.</li>\n<li>Normas básicas de seguridad eléctrica y prevención de riesgos laborales.</li>\n<li>Uso responsable de la energía y eficiencia energética en sistemas eléctricos.<br /> <br /><br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdzc-h7gnyf099</odePageId>
+      <odeBlockId>block-1774454198056-6h82pfa0v</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzc-h7gnyf099</odePageId>
+          <odeBlockId>block-1774454198056-6h82pfa0v</odeBlockId>
+          <odeIdeviceId>idevice-1774454198051-0ojlqci8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>6. Realiza maniobras características en máquinas rotativas, interpretando esquemas y aplicando técnicas de montaje.</p>
+<p>Criterios de evaluación:</p>
+<p>a) Se han preparado las herramientas, equipos, elementos y medios de seguridad. b) Se han acoplado mecánicamente las máquinas.</p>
+<p>c) Se han montado circuitos de mando y fuerza, para las maniobras de arranque e inversión entre otras.</p>
+<p>d) se han conexionado las máquinas a los diferentes circuitos teniendo en cuenta el dimensionado de la aparamenta, de los conductores y de las protecciones.</p>
+<p>e) se han medido magnitudes eléctricas y mecánicas para determinar el adecuado régimen marcha de las máquinas.</p>
+<p>g) Se ha tenido en cuenta la documentación técnica y se han estudiado los casos que proporcionan una mejor eficiencia energética de las máquinas eléctricas rotativas al mejorar los rendimientos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454198051-0ojlqci8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>6. Realiza maniobras características en máquinas rotativas, interpretando esquemas y aplicando técnicas de montaje.</p>\n<p>Criterios de evaluación:</p>\n<p>a) Se han preparado las herramientas, equipos, elementos y medios de seguridad. b) Se han acoplado mecánicamente las máquinas.</p>\n<p>c) Se han montado circuitos de mando y fuerza, para las maniobras de arranque e inversión entre otras.</p>\n<p>d) se han conexionado las máquinas a los diferentes circuitos teniendo en cuenta el dimensionado de la aparamenta, de los conductores y de las protecciones.</p>\n<p>e) se han medido magnitudes eléctricas y mecánicas para determinar el adecuado régimen marcha de las máquinas.</p>\n<p>g) Se ha tenido en cuenta la documentación técnica y se han estudiado los casos que proporcionan una mejor eficiencia energética de las máquinas eléctricas rotativas al mejorar los rendimientos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdze-rshj678dm</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdze-rshj678dm</odePageId>
+      <odeBlockId>block-1774455026009-sn4p6f6z9</odeBlockId>
+      <blockName>Aprendizaje Basado en Proyectos (ABP)</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdze-rshj678dm</odePageId>
+          <odeBlockId>block-1774455026009-sn4p6f6z9</odeBlockId>
+          <odeIdeviceId>idevice-1774455026004-7gaewpnl8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El alumnado resuelve un reto real: </strong>montan un automatismo cableado funcional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774455026004-7gaewpnl8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El alumnado resuelve un reto real: </strong>montan un automatismo cableado funcional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdze-rshj678dm</odePageId>
+      <odeBlockId>block-1774455062355-yychyc1za</odeBlockId>
+      <blockName>Aprendizaje Cooperativo</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdze-rshj678dm</odePageId>
+          <odeBlockId>block-1774455062355-yychyc1za</odeBlockId>
+          <odeIdeviceId>idevice-1774455062352-yqdo42687</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Trabajo en grupos pequeños</li>
+<li>Reparto de roles</li>
+<li>Responsabilidad compartida</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774455062352-yqdo42687","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Trabajo en grupos pequeños</li>\n<li>Reparto de roles</li>\n<li>Responsabilidad compartida</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-morohdze-rshj678dm</odePageId>
+      <odeBlockId>block-1774455107488-aouvm1e2e</odeBlockId>
+      <blockName>Aprendizaje Basado en la Investigación</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdze-rshj678dm</odePageId>
+          <odeBlockId>block-1774455107488-aouvm1e2e</odeBlockId>
+          <odeIdeviceId>idevice-1774455107485-590qih95b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Búsqueda de información</li>
+<li>Análisis crítico</li>
+<li>Interpretación de datos</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774455107485-590qih95b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Búsqueda de información</li>\n<li>Análisis crítico</li>\n<li>Interpretación de datos</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdzf-t5bfwx8r4</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdzf-t5bfwx8r4</odePageId>
+      <odeBlockId>block-1774454539731-v1wugs41n</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzf-t5bfwx8r4</odePageId>
+          <odeBlockId>block-1774454539731-v1wugs41n</odeBlockId>
+          <odeIdeviceId>idevice-1774454539730-hxqvjdiz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se vincula con:</p>
+<ul>
+<li><strong>Plan de Digitalización de Centro (PDC)</strong> → uso de herramientas digitales</li>
+<li><strong>Programa de Sostenibilidad / Agenda 2030 </strong>→ ODS</li>
+<li><strong>Plan de Acción Tutorial (PAT)</strong> → trabajo en equipo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454539730-hxqvjdiz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se vincula con:</p>\n<ul>\n<li><strong>Plan de Digitalización de Centro (PDC)</strong> → uso de herramientas digitales</li>\n<li><strong>Programa de Sostenibilidad / Agenda 2030 </strong>→ ODS</li>\n<li><strong>Plan de Acción Tutorial (PAT)</strong> → trabajo en equipo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdzg-qav1e4p71</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdzg-qav1e4p71</odePageId>
+      <odeBlockId>block-1774454676986-a8ev3nfq8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzg-qav1e4p71</odePageId>
+          <odeBlockId>block-1774454676986-a8ev3nfq8</odeBlockId>
+          <odeIdeviceId>idevice-1774454676982-zwpl3dxbu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Visita a un taller industrial que utiliza este tipo de frenados en sus instalaciones.</li>
+</ul>
+<p><em><strong>(Opcional según contexto del centro)</strong></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774454676982-zwpl3dxbu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Visita a un taller industrial que utiliza este tipo de frenados en sus instalaciones.</li>\n</ul>\n<p><em><strong>(Opcional según contexto del centro)</strong></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morohdzh-4e2cbb4q6</odePageId>
+  <odeParentPageId>page-morohdz2-9w8sd10f2</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morohdzh-4e2cbb4q6</odePageId>
+      <odeBlockId>block-1774519021262-8adq4qlxw</odeBlockId>
+      <blockName>Descargar el archivo fuente de eXeLearning</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morohdzh-4e2cbb4q6</odePageId>
+          <odeBlockId>block-1774519021262-8adq4qlxw</odeBlockId>
+          <odeIdeviceId>idevice-1774519021254-piu4lyd4m</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿De verdad es sostenible? Análisis de ecoetiquetas en el sector electrotécnico</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">David Huelmo Vázquez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"></p>
+<p style="text-align: justify;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
